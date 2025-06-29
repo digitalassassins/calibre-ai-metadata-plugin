@@ -1,2 +1,2 @@
-# calibre_ai_metadata_plugin
+# Calibre Ai Metadata Plugin
 Artificial Intelligence Metadata Plugin for Calibre eBook Software
