@@ -26,6 +26,6 @@ I set the plugin processing by just clicking the "Go" button and waited for a fe
 I thought, this is great, and others may find this useful. I would share it with the community. It may be useful for Businesses, Research students, Education establishments, etc.
 Because it doesn't have to be just eBooks, using the AI, you can organise, dedupe and embed metadata into any document using Calibre.
 
-You can organise Invoices, Research Papers, Tutor Notes, Love Letters, Utility bills, the list is endless. If the document has writing and is in a document format. It can be organised with Calibre.
+You can organise Invoices, Research Papers, Tutor Notes, Love Letters, Utility bills, the list is endless. If the document has writing and is in a document format. It can be organised with Calibre using this AI Metadata plugin.
 
 So hopefully you found this plugin as useful as I did. 
